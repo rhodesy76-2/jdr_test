@@ -1,5 +1,1 @@
-from os import lseek
-
-
-name = "Anjali"
-print(name)
+print('hello world', 6, 'another one')
