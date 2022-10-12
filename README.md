@@ -33,8 +33,8 @@ print(guess)
 
 
 # Step 9. Creates an if statement that checks if the length (lens) of the input is equal to 1 and the input is an alphabet (isalpha).
-# Step 4: In the body of the if statement, prints a message that says "Good guess!".
-# Step 5: Creates an else block that prints "Oops! That is not a valid input." if the preceeding conditions are not met.
+# Step 10: In the body of the if statement, prints a message that says "Good guess!".
+# Step 11: Creates an else block that prints "Oops! That is not a valid input." if the preceeding conditions are not met.
 
 if len(guess) == 1 and guess.isalpha():
     print("Good guess!")
@@ -42,7 +42,7 @@ else :
     print("Oops! That is not a valid input.")
 
 
-# Step 6: Combined above into a check letter while loop until only a single alphabetic letter is input
+# Step 12 (extra): Combined above into a check letter while loop until only a single alphabetic letter is input
 
 while True:
     guess = input("Please input a single letter")
