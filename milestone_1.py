@@ -37,3 +37,14 @@ if len(guess) == 1 and guess.isalpha():
 else :
     print("Oops! That is not a valid input.")
 # %%
+
+# Combined above into a check letter while loop until only a single alphabetic letter is input
+while True:
+    guess = input("Please input a single letter")
+    print(guess)
+    if len(guess) == 1 and guess.isalpha():
+        print("Good guess!")
+        break
+    else :
+        print("Oops! That is not a valid input.")
+# %%
