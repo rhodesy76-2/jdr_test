@@ -2,10 +2,9 @@
 Milestone 1 
 
 ## Usage
-
-# import random function. 
-Note: To import a module, you have to use the import keyword at the top of the file.
 ```python
+# import random function. Note: To import a module, you have to use the import keyword at the top of the file.
+
 import random
 
 
