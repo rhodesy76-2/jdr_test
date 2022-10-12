@@ -1,5 +1,5 @@
 # Hangman milestone_1
-Milestone 1 
+Milestone 1 dealt  with importing the random function, creating a list of fruits and then calling one of the fruits using the random function. I then created a statement that checks that only one letter is input and that it is an alphabet. Finally I pulled the lasts steps together using a while loop with a break so that an input would only be accepted if a sinle letter was input.
 
 ## Usage
 ```python
