@@ -155,4 +155,3 @@ print(union_set)
 # %%
 differ_set = set_1.difference(set_2)
 print(differ_set)
-# %%
